@@ -8,10 +8,24 @@ Here you'll find the demo code for my Pluralsight course [Microsoft Azure IoT De
 
 I hope you enjoyed the course. If you have any questions, please don't hesitate don't contact me!
 
-# iot-developer-devices-iot-hub-m1
+## iot-developer-devices-iot-hub-m1
 
 This .NET project shows you how to work with device twins from code and how to query IoT Hub devices.
 
-# iot-developer-devices-iot-hub-m2
+## iot-developer-devices-iot-hub-m2
 
 This .NET project shows you how to implement IoT Hub direct methods and jobs in code.
+
+## References and documentation
+
+#### IoT Hub query language for device and module twins, jobs, and message routing:
+
+https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-query-language
+
+#### Azure CLI commands to manage IoT devices:
+
+https://docs.microsoft.com/en-us/cli/azure/ext/azure-iot/iot
+
+#### Tutorial: Implement a device firmware update process
+
+https://docs.microsoft.com/en-us/azure/iot-hub/tutorial-firmware-update
